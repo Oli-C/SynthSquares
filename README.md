@@ -44,14 +44,14 @@ Build
 
 The app was built on XCode Version 11.3 (11C29), macOS Mojave 10.14.6. The app is mostly designed for iPhone X, Xs & 11 Pro display sizes. It is fully working when tested on iOS 13.3 on an iPhone Xs. However, it also works for many other devices in simulation such as iPad 9.7, Air and Pro series. The UI is a bit messy on iPad, but works, but will be fixed for future versions.
 
-Versions (2)
-------------
-
-The main version intended to be marked is Ver 1.0.1 - as I have fixed the App Name and iPad orientation issues in this version. To be safe I have added an older version before these changes as I'm concerned about compiler errors when tested on other systems in this new version. The OLDER version is marked OLD on the containing folder. If Main (current version 1.0.1 does not work, please look at Ver 1.0.0
-
 Known Bugs
 -----------
 
 One main bug is audio cutting out and I believe this to be an AKOscillator glitch. After a note has been played it has to be reset and the note has to be 'stopped'. It is fixed in the App currently by removing and adding squares again and I'm sure can be fixed in future versions. Current functionality is fairly acceptable.
 
 Another is clipping audio, which I'm unsure of how is caused, but I believe is due to overloading the AKMixer which mixes all the synth squares together.
+
+AudioKit
+-----------
+
+This app uses AudioKit for sound generation. Available here: https://github.com/AudioKit/AudioKit.
