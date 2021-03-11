@@ -1,6 +1,6 @@
 # SynthSquares
 
-SYNTH SQUARES - App Information
+App Information
 -------------------------------
 
 App Name 		 : Synth Squares
