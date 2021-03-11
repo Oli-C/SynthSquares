@@ -1,5 +1,9 @@
 # SynthSquares
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=watch?v=qAm2TFkrlPo
+" target="_blank"><img src="http://img.youtube.com/vi/watch?v=qAm2TFkrlPo/0.jpg" 
+alt="SynthSquares Demo" width="240" height="180" border="10" /></a>
+
 App Information
 -------------------------------
 
