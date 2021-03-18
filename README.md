@@ -20,7 +20,7 @@ With Synth Squares you can crash synthesisers together! Allowing an ensemble of 
 
 Synth squares is currently optimised and only available for iPhone X, Xs & Pro but will be coming to iPad and other devices very soon.
 
-In the next version, we plan on adding -
+In the next version, I plan on adding -
 
  - A new effects menu, with options for other effects: Flanger, Phaser, Chorus, Stereo manipulation, Advanced Filters...just to name a few.
  - Different types of Synth Squares using exciting synthesis techniques (Amplitude modulation, Wavetable synthesis, Additive synthesis, Subtractive synthesis and even some classical instruments).
