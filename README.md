@@ -56,7 +56,7 @@ Known Bugs
 
 One main bug is audio cutting out and I believe this to be an AKOscillator glitch. After a note has been played it has to be reset and the note has to be 'stopped'. It is fixed in the App currently by removing and adding squares again and I'm sure can be fixed in future versions. Current functionality is fairly acceptable.
 
-Another is clipping audio, which I'm unsure of how is caused, but I believe is due to overloading the AKMixer which mixes all the synth squares together.
+Another is clipping audio, I believe it's due to overloading the Node Mixer which mixes all the synth squares together.
 
 AudioKit
 -----------
